@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://ik.imagekit.io/gw4av6kyj/New%20Folder/logo.png?updatedAt=1779386742319" width="120" style="border-radius: 50%;" alt="Huy Lê avatar" />
+</p>
+
 <h1 align="center">Hi there, I'm Huy 👋</h1>
 
 <p align="center">
