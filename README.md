@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/tan-huy-673408342/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://huy-quan-dui.github.io/Portfolio">
+  <a href="[https://huy-quan-dui.github.io/Portfolio](https://dinh-le-tan-huy.github.io/)">
     <img src="https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
   <a href="mailto:t.huy030826@gmail.com">
@@ -128,7 +128,7 @@ Built a full-stack Food Delivery app — mobile frontend with Flutter/Dart and b
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Portfolio**](https://github.com/huy-quan-dui/Portfolio) | Personal developer portfolio with MVVM architecture, Redux state management, and EmailJS contact form | React 19, TypeScript, Vite, Redux Toolkit, Framer Motion |
+| [**Portfolio**][(https://github.com/huy-quan-dui/Portfolio)] | Personal developer portfolio with MVVM architecture, Redux state management, and EmailJS contact form | React 19, TypeScript, Vite, Redux Toolkit, Framer Motion |
 
 ---
 
