@@ -111,19 +111,6 @@ Built a full-stack Food Delivery app — mobile frontend with Flutter/Dart and b
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=huy-quan-dui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy-quan-dui&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=huy-quan-dui&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 📌 Featured Project
 
 | Project | Description | Stack |
