@@ -72,10 +72,18 @@ Full Stack Developer building scalable end-to-end products using **Node.js, Next
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -107,6 +115,7 @@ Built a full-stack Food Delivery app — mobile frontend with Flutter/Dart and b
 - 🏅 **Top 5 Final Project** — LTTC Mobile App Showcase 2024
 - ☁️ **AWS Cloud Computing** — Udemy (2026)
 - 📱 **React Native Developer Certificate** — CSC / University of Science (2025)
+- 🎯 **[Front-End Development Libraries V8](https://www.freecodecamp.org/certification/tanhuy/front-end-development-libraries)** — freeCodeCamp (2026)
 - 🌐 **TOEIC 600**
 
 ---
