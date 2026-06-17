@@ -80,10 +80,9 @@ Full Stack Developer building scalable end-to-end products using **Node.js, Next
 
 **AI Tools**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat-square&logo=cursor&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -104,7 +103,7 @@ Built a full-stack Food Delivery app — mobile frontend with Flutter/Dart and b
 | School | Degree | Year |
 |---|---|---|
 | **University of Information Technology – UIT** | B.Sc. Computer Science | 2025 |
-| **Ly Tu Trong College – LTTC** | A.Sc. Information Technology | 2021 – 2024 |
+| **Ly Tu Trong College – LTTC** | Associate of Science in Computer Programming | 2021 – 2024 |
 | **Ly Tu Trong College – LTTC** | Intermediate Certificate in Cybersecurity | 2018 – 2021 |
 
 ---
