@@ -31,7 +31,7 @@ const huy = {
   location:   "Ho Chi Minh City, Vietnam 🇻🇳",
   email:      "t.huy030826@gmail.com",
   phone:      "093 222 4895",
-  languages:  ["Vietnamese (Native)", "English (TOEIC 600)"],
+  languages:  ["Vietnamese (Native)", "English (TOEIC 700)"],
   interests:  ["Clean Architecture", "Real-time Systems", "Mobile Dev", "API Design"],
   available:  true,
 };
