@@ -1,136 +1,176 @@
-<p align="center">
-  <img src="https://ik.imagekit.io/gw4av6kyj/New%20Folder/logo.png?updatedAt=1779386742319" width="120" style="border-radius: 50%;" alt="Huy Lê avatar" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there, I'm Huy 👋</h1>
+# Dinh Le Tan Huy
 
-<p align="center">
-  <em>Full Stack Developer · Building scalable end-to-end solutions with the JS/TS ecosystem</em>
-</p>
+### Full Stack Developer · Mobile Developer · Technical Problem Solver
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tan-huy-673408342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dinh-le-tan-huy.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-  <a href="mailto:t.huy030826@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Building end-to-end applications across **Frontend, Mobile, Backend, APIs, Databases, and CI/CD**.
+
+[LinkedIn](https://www.linkedin.com/in/tan-huy-673408342/) ·
+[Portfolio](https://dinh-le-tan-huy.github.io/) ·
+[GitHub](https://github.com/huy-quan-dui) ·
+[Email](mailto:t.huy030826@gmail.com)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-```ts
-const huy = {
-  name:       "Dinh Le Tan Huy",
-  role:       "Full Stack Developer",
-  location:   "Ho Chi Minh City, Vietnam 🇻🇳",
-  email:      "t.huy030826@gmail.com",
-  phone:      "093 222 4895",
-  languages:  ["Vietnamese (Native)", "English (TOEIC 700)"],
-  interests:  ["Clean Architecture", "Real-time Systems", "Mobile Dev", "API Design"],
-  available:  true,
-};
-```
+I'm a **Full Stack Developer** with a strong focus on the JavaScript/TypeScript ecosystem, particularly **React Native, Next.js, Node.js, and PostgreSQL**.
 
-Full Stack Developer building scalable end-to-end products using **Node.js, Next.js, and React Native**. Comfortable working across the entire stack — from API design and database architecture to polished, responsive UIs on both web and mobile platforms.
+My experience covers more than implementation. During product development, I also work with:
 
----
+- **Requirement & Business Analysis**
+- Business workflow and role-based requirement analysis
+- UI/UX requirement validation
+- Technical solution selection and problem solving
+- REST API and database design
+- Real-time systems
+- Third-party integrations
+- Testing and requirement validation
+- CI/CD and application deployment
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-**AI Tools**
-
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+I enjoy working across the entire product lifecycle — from understanding a business requirement and designing a technical solution to implementation, testing, deployment, and release.
 
 ---
 
-## 💼 Experience
+## Core Expertise
 
-**🏠 HomeNest Software** — Web & Mobile Developer *(Jun 2025 – Present)*
-
-Working on both a cross-platform mobile application and an SEO-optimized web platform. Responsibilities span backend API development, third-party payment integrations, real-time features, and mobile deployment across iOS and Android.
-
-**🟢 Choi Xanh Media** — Mobile Developer *(Nov 2024 – May 2025)*
-
-Built a full-stack Food Delivery app — mobile frontend with Flutter/Dart and backend services with Node.js/MongoDB. Handled authentication, location-based features, and automated CI/CD pipelines via Codemagic and GitHub Actions.
-
----
-
-## 🎓 Education
-
-| School | Degree | Year |
-|---|---|---|
-| **University of Information Technology – UIT** | B.Sc. Computer Science | 2025 |
-| **Ly Tu Trong College – LTTC** | Associate of Science in Computer Programming | 2021 – 2024 |
-| **Ly Tu Trong College – LTTC** | Intermediate Certificate in Cybersecurity | 2018 – 2021 |
+| Area | Experience |
+|---|---|
+| **Frontend** | React.js, Next.js, TypeScript, HTML/CSS, Tailwind CSS, CSS Modules |
+| **Mobile** | React Native, Expo, Flutter, Dart, Android/Kotlin |
+| **Backend** | Node.js, Express.js, Spring Boot, RESTful APIs, Socket.IO |
+| **Database** | PostgreSQL, MongoDB, Redis, Firebase Realtime Database |
+| **ORM / Data** | Prisma, JPA/Hibernate, Flyway |
+| **Cloud & Storage** | AWS S3, Presigned URLs, Firebase, ImageKit |
+| **API & Integration** | REST, GraphQL, OpenAPI/Swagger, WebView/JS Bridge |
+| **Authentication** | JWT, RSA/JWK, Firebase Auth, OTP, Social Login |
+| **DevOps / CI/CD** | Docker, Docker Compose, GitHub Actions, Codemagic, EAS Build, VPS |
+| **Architecture** | Full-stack Architecture, Layered Architecture, MVVM, Repository Pattern |
+| **Project Workflow** | Agile/Scrum, Jira, Trello, Postman, Figma |
 
 ---
 
-## 🏆 Achievements
+## Professional Experience
 
-- 🥇 **50% Tuition Scholarship** — LTTC, awarded for outstanding academic performance
-- 🏅 **Top 5 Final Project** — LTTC Mobile App Showcase 2024
-- ☁️ **AWS Cloud Computing** — Udemy (2026)
-- 📱 **React Native Developer Certificate** — CSC / University of Science (2025)
-- 🎯 **[Front-End Development Libraries V8](https://www.freecodecamp.org/certification/tanhuy/front-end-development-libraries)** — freeCodeCamp (2026)
-- 🌐 **TOEIC 600**
+### HomeNest Software
+**Full Stack Developer** · Jun 2025 – Present
+
+Working across mobile, backend, web, and deployment for production applications.
+
+#### Love Lawn Service — Agriculture ERP
+
+**React Native · Expo · Node.js · TypeScript · PostgreSQL · Prisma · Redis · AWS S3**
+
+A production Agriculture ERP application available on **App Store and Google Play**, supporting Client, Worker, and Admin workflows.
+
+**Engineering & Product Analysis**
+- Analyzed customer requirements and translated them into **business workflows, business rules, role-specific requirements, and functional requirements**.
+- Analyzed Client / Worker / Admin workflows, required data fields, edge cases, and exception handling.
+- Reviewed UI/UX designs against requirements to identify **missing fields, incomplete flows, and functional gaps**.
+- Proposed technical solutions and selected suitable libraries / technologies for implementing required features.
+
+**Development**
+- Built booking, worker assignment, GPS check-in, reporting, payment, real-time chat, notifications, and offline workflows.
+- Integrated **Helcim Payment, Socket.IO, AWS S3 Presigned URLs, MapLibre, Expo Location, and Expo Notifications**.
+- Implemented real-time communication and offline message handling using Socket.IO, Redux Toolkit, and RTK Query.
+
+**Testing & Delivery**
+- Performed role-based and end-to-end testing across Client, Worker, and Admin scenarios.
+- Validated implemented workflows against business requirements before release.
+- Automated backend deployment and mobile releases using **GitHub Actions, EAS Build, and VPS deployment**.
+- Worked in an **Agile/Scrum environment** using Jira/Trello for task management and weekly planning/review.
 
 ---
 
-## 📌 Featured Project
+### VIET PLUS — Multi-category Super App
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Portfolio**](https://github.com/huy-quan-dui/Portfolio) | Personal developer portfolio with MVVM architecture, Redux state management, and EmailJS contact form | React 19, TypeScript, Vite, Redux Toolkit, Framer Motion |
+**React Native · Expo · Node.js · TypeScript · PostgreSQL · Prisma · Redis · Socket.IO**
+
+- Developed 10+ feature modules across used items, vehicles, housing, jobs, and ride-sharing.
+- Implemented cart, orders, listing flows, real-time chat, notifications, and multi-language features.
+- Built and maintained **RESTful APIs** using Node.js, Prisma, PostgreSQL, JWT, Zod, Swagger, AWS S3, and Winston.
+- Implemented Redis and Socket.IO Redis Adapter for horizontally scalable real-time communication.
+- Automated VPS deployment using **Docker, Docker Compose, and GitHub Actions**.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huy-quan-dui&color=00d8ff&style=flat-square&label=Profile+Views" />
-</p>
+### Corporate Websites — HomeNest Software & HomeNest Vietnam
 
-<p align="center">
-  <em>Open to new opportunities — feel free to reach out!</em>
-</p>
+**Next.js 16 · WordPress Headless CMS · WPGraphQL · GraphQL · Framer Motion**
+
+- Built responsive multilingual corporate websites with interactive 3D experiences using Next.js, Framer Motion, and Spline.
+- Integrated **WordPress Headless CMS and WPGraphQL** for content management.
+- Implemented Next.js ISR, Dynamic Routing, 301 Redirects, Metadata, JSON-LD Schema.org, XML Sitemap, and Google Tag Manager.
+- Restructured slug-based URLs while preserving SEO through redirect architecture.
+- Implemented automated email workflows using Nodemailer.
+
+---
+
+### Choi Xanh Media Company
+**Mobile Developer** · Nov 2024 – May 2025
+
+#### Food Delivery Application
+
+**Flutter · Dart · Java · Firebase · Mapbox · ImageKit · Docker · Codemagic**
+
+- Developed a full-stack food delivery application with Flutter/Dart mobile UI and Java-based backend services.
+- Implemented **Service Layer architecture, AutoRoute navigation, Flutter animations, and dynamic media handling with ImageKit**.
+- Built secure Java RESTful APIs and integrated Firebase Authentication for social login and email-based authentication.
+- Integrated **Mapbox** for location-based delivery features.
+- Automated mobile/backend releases using **Codemagic and GitHub Actions** within an Agile/Jira workflow.
+
+---
+
+## Selected Projects
+
+### Create CV — Harvard Format
+
+**Java 21 · Spring Boot · PostgreSQL · Apache POI · JPA/Hibernate · Flyway · JWT · OpenAPI**
+
+A backend system for generating structured **Harvard-format IT CVs in `.docx`** from user-provided data.
+
+- Designed a relational PostgreSQL data model for users, education, work experience, projects, skills, certificates, awards, and activities.
+- Built RESTful APIs using **Spring Boot, Controller-Service-Repository architecture, DTOs, JPA/Hibernate, and PostgreSQL**.
+- Generated `.docx` CV documents programmatically using **Apache POI**.
+- Implemented database versioning with **Flyway** and validation with Hibernate.
+- Implemented **JWT authentication with RSA/JWK**.
+- Documented REST APIs using **Springdoc OpenAPI / Swagger**.
+
+---
+
+### Coffee Shop Android App
+
+**Kotlin · Android SDK · Firebase · MVVM · LiveData · RecyclerView · Material Design**
+
+- Built an Android coffee shop e-commerce application with product catalog, category filtering, banners, cart, tax/delivery calculation, and wishlist.
+- Integrated **Firebase Authentication, Firebase Realtime Database, Firebase Cloud Messaging (FCM)**, image upload, and location services.
+- Integrated **OSMDroid/OpenStreetMap** for map and location functionality.
+- Applied **MVVM, ViewBinding, and Repository Pattern** to separate UI, business logic, and data layers.
+
+---
+
+## Engineering Approach
+
+I approach development as a complete product workflow rather than only writing code:
+
+```text
+Business Requirement
+        ↓
+Requirement & Workflow Analysis
+        ↓
+UI/UX & Functional Validation
+        ↓
+Technical Solution Design
+        ↓
+Implementation
+        ↓
+API / Database Integration
+        ↓
+Testing & Requirement Validation
+        ↓
+CI/CD & Deployment
+        ↓
+Production Release
