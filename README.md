@@ -2,19 +2,19 @@
 
 # Dinh Le Tan Huy
 
-### Full Stack Developer | Mobile Developer
+### Full Stack Developer 
 
 Building web, mobile, and backend applications with **JavaScript/TypeScript, Java/Kotlin, and Dart**.
 
 [LinkedIn](https://www.linkedin.com/in/tan-huy-673408342/) ·
 [Portfolio](https://dinh-le-tan-huy.github.io/) ·
-[Email](mailto:t.huy030826@gmail.com)
+[t.huy030826@gmail.com](mailto:t.huy030826@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Full Stack Developer experienced in **Web, Mobile, Backend, REST APIs, databases, real-time systems, and CI/CD**.
 
@@ -22,13 +22,13 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## 🧠 Languages
+## Languages
 
 **JavaScript · TypeScript · Java · Kotlin · Dart**
 
 ---
 
-## ⚛️ Frontend & Web
+## Frontend 
 
 **React.js · Next.js · React Native · Expo · Flutter**
 
@@ -39,7 +39,7 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 **Node.js · Express.js · Spring Boot**
 
@@ -49,7 +49,7 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## 📱 Mobile
+## Mobile
 
 **React Native · Flutter · Android**
 
@@ -61,7 +61,7 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## 🗄️ Database & Cloud
+## Database & Cloud
 
 **PostgreSQL · MongoDB · Redis**
 
@@ -73,7 +73,7 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## 🚀 DevOps & Tools
+## DevOps & Tools
 
 **Docker · Docker Compose · GitHub Actions · Codemagic · Nginx · Ubuntu · VPS**
 
@@ -81,7 +81,7 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## 🏗️ Architecture & Practices
+## Architecture & Practices
 
 **Clean Architecture · Layered Architecture · MVVM · Repository Pattern · Service Layer**
 
@@ -91,7 +91,7 @@ I also have hands-on experience in **Business Analysis and requirement-driven de
 
 ---
 
-## 🤖 AI
+## AI
 
 **Claude · Gemini · Google AI Studio**
 
